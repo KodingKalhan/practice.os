@@ -1,0 +1,41 @@
+body{
+  background-image: url(https://cdn.vox-cdn.com/uploads/chorus_asset/file/22661965/img19.jpg);
+
+}
+
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.navbar a:hover {
+  background-color: rgba(255, 255, 255, 0.13);
+  color: black;
+}
+
+h1{
+    color: white;
+    font-family: monospace;
+    font-size: 100px;
+}
+
+button{
+    background-color: black;
+    color: lime;
+    border-color: lime;
+    font-family: monospace;
+    height: 50px;
+    width: 200px;
+}

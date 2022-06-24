@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: limegreen;
+    font-family: monospace;
+    font-size: 200px;
+}
+
+body{
+    background-color: black;
+}
+
+button{
+    background-color: black;
+    color: lime;
+    border-color: lime;
+    font-family: monospace;
+}

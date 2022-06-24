@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: limegreen;
+    font-family: monospace;
+}
+
+h2{
+    text-align: center;
+    color: navyblue;
+}
+
+button{
+    background-color: black;
+    color: lime;
+    border-color: lime;
+    font-family: monospace;
+}
+
+a{
+    color: black;
+}

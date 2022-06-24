@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: lime;
+    text-align: center;
+    font-family: monospace;
+}
+
+a:visited{
+    color: lime;
+}
+
+a{
+    color: lime;
+}
+
+button{
+    background-color: black;
+    color: lime;
+    border-color: lime;
+    font-family: monospace;
+}
